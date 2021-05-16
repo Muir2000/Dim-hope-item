@@ -1,0 +1,9 @@
+title:This is a compiled collection of god/recommended rolls from top community minds.
+description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, and @chrisfried for their contributions. Ping u/48klocs / @48klocs with any issues.
+
+title:u/pandapaxxy's Season of the Chosen Iron Banner and Trials of Osiris M+KB Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/lnw2vb/iron_banner_and_trials_of_osiris_reprised_mnk/
+
+// Multimach CCX
+//notes:pandapaxxy (PvE / M+KB): "This will be fine if you have nothing else, but it’s certainly not the best smg right now." Recommended MW: Reload.|tags:pve,mkb
+dimwishlist:item=3717177717&perks=2209280306,1087426260,1820235745,4049631843
