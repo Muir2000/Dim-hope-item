@@ -1,7 +1,8 @@
 title:내 마음대로 만드는 데스트니 희망 아이템 목록.
 description:Thanks to me.
 
-#수다쟁이 뼈
+//수다쟁이 뼈
+//notes:살상 + 고비탄 조합이 되는 총,
 dimwishlist:item=568515759&perks=4090651448,679225683,1015611457,2213355989
 dimwishlist:item=568515759&perks=4267945040,3425386926
 dimwishlist:item=568515759&perks=1168162263,3425386926
