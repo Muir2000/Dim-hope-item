@@ -1,0 +1,587 @@
+{
+   "322810736":{
+      "displayProperties":{
+         "description":"여명 기간에 수집한 재료 중 원하는 것을 선택하여 특별한 아이템을 만드세요.",
+         "name":"재료",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":322810736,
+      "index":0,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "2481496894":{
+      "displayProperties":{
+         "description":"완성한 레시피는 쉽게 찾을 수 있도록 여기에 표시됩니다.",
+         "name":"레시피",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":2481496894,
+      "index":1,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "2402926498":{
+      "displayProperties":{
+         "description":"비밀석탑 미끼의 성능을 강화합니다.",
+         "name":"미끼 업그레이드",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":2656457638,
+      "categoryStyle":1,
+      "hash":2402926498,
+      "index":2,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "3848483489":{
+      "displayProperties":{
+         "description":"사냥감 개조 부품과 트로피 개조 부품을 사용해 사냥을 마음대로 설정하세요.",
+         "name":"미끼 개조 부품",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":3848483489,
+      "index":3,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "3400985399":{
+      "displayProperties":{
+         "description":"기갑단의 금으로 도전자 메달을 벼려내 카이아틀의 사령관에게 도전하세요.",
+         "name":"망치 개조 부품",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":3400985399,
+      "index":4,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "2283447921":{
+      "displayProperties":{
+         "description":"세트 특성은 갬빗 프라임 플레이리스트를 플레이하는 동안 활성화됩니다.\n\n동일한 갬빗 프라임 방어구 세트 내 장비를 여러 개 장착할수록 더 많은 특성을 잠금 해제할 수 있습니다.",
+         "name":"갬빗 프라임 특성",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1762428417,
+      "categoryStyle":3,
+      "hash":2283447921,
+      "index":5,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "2518356196":{
+      "displayProperties":{
+         "description":"특성은 해당 방어구에 포함되어 있습니다. 각 열에서 하나만 선택할 수 있으며 같은 열 내에서 제한 횟수 없이 바꿀 수 있습니다.",
+         "name":"방어구 특성",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":2656457638,
+      "categoryStyle":1,
+      "hash":2518356196,
+      "index":6,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "760375309":{
+      "displayProperties":{
+         "description":"방어구의 에너지 유형 및 단계에 따라 어떤 방어구 개조 부품을 장착할 수 있는지가 결정됩니다. 방어구 단계를 업그레이드하면 에너지 수용량이 증가하여 더 비싼 방어구 개조 부품을 장착할 수 있습니다.",
+         "name":"방어구 단계",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":750616615,
+      "categoryStyle":5,
+      "hash":760375309,
+      "index":7,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "590099826":{
+      "displayProperties":{
+         "description":"방어구에 개조 부품을 부착하여 특성을 향상시키거나 추가합니다. 개조 부품이 소진됩니다.",
+         "name":"방어구 개조 부품",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":590099826,
+      "index":8,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "1926152773":{
+      "displayProperties":{
+         "description":"방어구에 장식을 부착하여 외형을 변경합니다.",
+         "name":"방어구 장식",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":1926152773,
+      "index":9,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "3154740035":{
+      "displayProperties":{
+         "description":"특성은 해당 방어구에 적용됩니다. 다른 특성으로 교체할 수 없습니다.",
+         "name":"방어구 특성",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":2251952357,
+      "categoryStyle":6,
+      "hash":3154740035,
+      "index":10,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "3301318876":{
+      "displayProperties":{
+         "description":"특성은 해당 고스트 의체에 적용됩니다. 제한 횟수 없이 교체할 수 있습니다.",
+         "name":"고스트 의체 특성",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1762428417,
+      "categoryStyle":3,
+      "hash":3301318876,
+      "index":11,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "3379164649":{
+      "displayProperties":{
+         "description":"고스트 의체에 개조 부품을 부착하여 특성을 향상시키거나 추가합니다. 개조 부품이 소진됩니다.",
+         "name":"고스트 의체 개조 부품",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":3379164649,
+      "index":12,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "4241085061":{
+      "displayProperties":{
+         "description":"특성은 해당 무기에 적용됩니다. 제한 횟수 없이 교체할 수 있습니다.",
+         "name":"무기 특성",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":2656457638,
+      "categoryStyle":1,
+      "hash":4241085061,
+      "index":13,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "2685412949":{
+      "displayProperties":{
+         "description":"무기에 개조 부품을 부착하여 특성을 향상시키거나 추가합니다. 개조 부품이 소진됩니다.",
+         "name":"무기 개조 부품",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":2685412949,
+      "index":14,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "3956125808":{
+      "displayProperties":{
+         "description":"무기의 기본 성능입니다.",
+         "name":"고유 속성",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":2251952357,
+      "categoryStyle":6,
+      "hash":3956125808,
+      "index":15,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "2048875504":{
+      "displayProperties":{
+         "description":"무기에 장식을 부착하여 외형을 변경합니다.",
+         "name":"무기 장식",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":2048875504,
+      "index":16,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "2278110604":{
+      "displayProperties":{
+         "description":"특성은 해당 참새 또는 도약선에 적용됩니다. 빼낼 수 없습니다.",
+         "name":"차량 특성",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1762428417,
+      "categoryStyle":3,
+      "hash":2278110604,
+      "index":17,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "4243480345":{
+      "displayProperties":{
+         "description":"참새 또는 도약선에 개조 부품을 부착하여 특성을 향상시키거나 추가합니다. 개조 부품이 소진됩니다.",
+         "name":"차량 개조 부품",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":4243480345,
+      "index":18,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "4265082475":{
+      "displayProperties":{
+         "description":"참새 또는 도약선에 개조 부품을 부착하여 특성을 향상시키거나 추가합니다. 개조 부품이 소진됩니다.",
+         "name":"차량 개조 부품",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":4265082475,
+      "index":19,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "457473665":{
+      "displayProperties":{
+         "description":"캐릭터 장비 구성에 삽입할 수 있는 궁극기입니다.",
+         "name":"궁극기",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":497024337,
+      "categoryStyle":8,
+      "hash":457473665,
+      "index":20,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "309722977":{
+      "displayProperties":{
+         "description":"캐릭터 장비 구성에 삽입할 수 있는 능력입니다.",
+         "name":"능력",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1901312945,
+      "categoryStyle":7,
+      "hash":309722977,
+      "index":21,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "2140934067":{
+      "displayProperties":{
+         "description":"구성을 성장시키고 조각 슬롯을 제공하는 능력입니다.",
+         "name":"상",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1901312945,
+      "categoryStyle":7,
+      "hash":2140934067,
+      "index":22,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "1313488945":{
+      "displayProperties":{
+         "description":"캐릭터의 능력을 변경하고 상이 제공하는 슬롯을 채우는 특성입니다.",
+         "name":"조각",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1901312945,
+      "categoryStyle":7,
+      "hash":1313488945,
+      "index":23,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "513547461":{
+      "displayProperties":{
+         "description":"이 문양을 장착했을 때 활성화되는 보너스입니다.",
+         "name":"문양 보너스",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1762428417,
+      "categoryStyle":3,
+      "hash":513547461,
+      "index":24,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "279738248":{
+      "displayProperties":{
+         "description":"이 문양의 외형을 사용자 설정합니다.",
+         "name":"문양 사용자 설정",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":279738248,
+      "index":25,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "2622243744":{
+      "displayProperties":{
+         "description":"황혼전의 방식과 도전을 변경하는 옵션입니다.",
+         "name":"황혼전 조정 옵션",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":2622243744,
+      "index":26,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "4102879893":{
+      "displayProperties":{
+         "description":"",
+         "name":"",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":2656457638,
+      "categoryStyle":1,
+      "hash":4102879893,
+      "index":27,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "3745560291":{
+      "displayProperties":{
+         "description":"",
+         "name":"",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1762428417,
+      "categoryStyle":3,
+      "hash":3745560291,
+      "index":28,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "1093090108":{
+      "displayProperties":{
+         "description":"감정을 표현해보세요.",
+         "name":"감정표현",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":1093090108,
+      "index":29,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "3970188346":{
+      "displayProperties":{
+         "description":"",
+         "name":"대장간 재료",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":3970188346,
+      "index":30,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "3792382831":{
+      "displayProperties":{
+         "description":"여명 기간에 수집한 재료 중 원하는 것을 선택하여 특별한 아이템을 만드세요.",
+         "name":"재료",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":3792382831,
+      "index":31,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "2059652296":{
+      "displayProperties":{
+         "description":"완성한 레시피는 쉽게 찾을 수 있도록 여기에 표시됩니다.",
+         "name":"레시피",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":2059652296,
+      "index":32,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "3483578942":{
+      "displayProperties":{
+         "description":"",
+         "name":"",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":3483578942,
+      "index":33,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "3005862180":{
+      "displayProperties":{
+         "description":"",
+         "name":"",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":2656457638,
+      "categoryStyle":1,
+      "hash":3005862180,
+      "index":34,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "2316895247":{
+      "displayProperties":{
+         "description":"성배의 이 성질을 개선하면 새로운 종류의 룬을 획득하고 사용할 수 있습니다.",
+         "name":"룬 호환성",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":2656457638,
+      "categoryStyle":1,
+      "hash":2316895247,
+      "index":35,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "879083882":{
+      "displayProperties":{
+         "description":"성배의 이 성질을 개선하면 획득하는 룬과 전리품의 수량이 많아집니다.",
+         "name":"룬 보너스",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":2656457638,
+      "categoryStyle":1,
+      "hash":879083882,
+      "index":36,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "2529820344":{
+      "displayProperties":{
+         "description":"성배의 이 성질을 개선하면 전시장의 마지막 상자에서 강력한 장비가 나올 확률이 극대화됩니다.",
+         "name":"전투력과 효율",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":2656457638,
+      "categoryStyle":1,
+      "hash":2529820344,
+      "index":37,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "1717595896":{
+      "displayProperties":{
+         "description":"",
+         "name":"",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1762428417,
+      "categoryStyle":3,
+      "hash":1717595896,
+      "index":38,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "446880883":{
+      "displayProperties":{
+         "description":"고스트 의체의 에너지 단계에 따라 어떤 고스트 개조 부품을 부착할 수 있는지가 결정됩니다. 단계를 업그레이드하면 더 값비싼 고스트 개조 부품을 부착할 수 있습니다.",
+         "name":"고스트 단계",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":750616615,
+      "categoryStyle":5,
+      "hash":446880883,
+      "index":39,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "3886482628":{
+      "displayProperties":{
+         "description":"고스트 의체에 개조 부품을 부착하여 강화합니다.",
+         "name":"고스트 개조 부품",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":3886482628,
+      "index":40,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "2549160099":{
+      "displayProperties":{
+         "description":"고스트에 장식을 부착하여 외형을 변경합니다.",
+         "name":"고스트 장식",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":2549160099,
+      "index":41,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "3898156960":{
+      "displayProperties":{
+         "description":"해당 시즌에 지정된 클랜 레벨에 도달한 클랜에 소속되어 있는 동안에는 클랜 특성을 이용할 수 있습니다.",
+         "name":"클랜 특성",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1762428417,
+      "categoryStyle":3,
+      "hash":3898156960,
+      "index":42,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "1683579090":{
+      "displayProperties":{
+         "description":"해당 시즌에 지정된 클랜 레벨에 도달한 클랜에 소속되어 있는 동안에는 클랜 특성을 이용할 수 있습니다.",
+         "name":"클랜 특성",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1762428417,
+      "categoryStyle":3,
+      "hash":1683579090,
+      "index":43,
+      "redacted":false,
+      "blacklisted":false
+   },
+   "3954618873":{
+      "displayProperties":{
+         "description":"각 시즌에 클랜 최고 레벨에 도달하면 깃대가 수여됩니다.",
+         "name":"클랜 깃대",
+         "hasIcon":false
+      },
+      "uiCategoryStyle":1469714392,
+      "categoryStyle":2,
+      "hash":3954618873,
+      "index":44,
+      "redacted":false,
+      "blacklisted":false
+   }
+}

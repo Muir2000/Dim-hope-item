@@ -1,0 +1,31 @@
+r = requests.get(origin+"/Platform/Destiny2/Manifest/DestinyInventoryItemDefinition/432476743/", headers=HEADERS);
+print(r)
+
+inventoryItem = r.json
+print(inventoryItem)
+
+
+#https://www.bungie.net/Platform/Destiny2/Manifest/{entityType}/{hashIdentifier}?lc=ko
+#https://www.bungie.net/common/destiny2_content/icons/e2f9671a1864e407537c229c6c3a0d3a.jpg
+
+
+파일 확인용.....버그도 있는둣
+if not os.path.isdir('./image') or os.path.isdir('./data'):
+    os.mkdir('./image')
+    os.mkdir('./data')
+
+
+
+
+
+
+
+
+    txtbox.grid(row=0,column=0)
+    btn1.grid(row=0,column=1)
+    #txt_detalie.pack()
+    list1.grid(row=0,column=2)
+    scroll1.grid(row=0,column=2)
+    #combo1.grid(row=1,column=0)
+    btn2.grid(row=0,column=3)
+    label1.grid(row=2,column=0)
